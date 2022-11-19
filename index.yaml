@@ -3,6 +3,16 @@ entries:
   app1:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-11-19T00:15:34.829182159Z"
+    description: A Helm chart for Kubernetes
+    digest: f24f118c6627fcf83db6779fe6eb748f5a8211642409041e1ebe9748b3480aa3
+    name: app1
+    type: application
+    urls:
+    - https://github.com/bpschmitt/subcharts/releases/download/app1-0.1.1/app1-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-11-19T00:11:52.702314738Z"
     description: A Helm chart for Kubernetes
     digest: b02ddea6d49f46435447ed09fea23c3c37f2afbac362baf0144c050eed133892
@@ -14,6 +24,16 @@ entries:
   app2:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-11-19T00:15:34.953779173Z"
+    description: A Helm chart for Kubernetes
+    digest: f18b83771022ef053f147c91be3443465ceb73d9b3a303981cef77b53b5f2693
+    name: app2
+    type: application
+    urls:
+    - https://github.com/bpschmitt/subcharts/releases/download/app2-0.1.1/app2-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-11-19T00:11:52.815545322Z"
     description: A Helm chart for Kubernetes
     digest: dd31d70945b1b1e50a5937d6e22671b55f8fd2081fad3c5dd94b35c1948e53ad
@@ -22,4 +42,4 @@ entries:
     urls:
     - https://github.com/bpschmitt/subcharts/releases/download/app2-0.1.0/app2-0.1.0.tgz
     version: 0.1.0
-generated: "2022-11-19T00:11:52.815554122Z"
+generated: "2022-11-19T00:15:34.953787873Z"
